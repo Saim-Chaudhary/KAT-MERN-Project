@@ -3,19 +3,23 @@ KAT_Project
 ├─ backend
 │  ├─ config
 │  │  └─ db.js
+│  ├─ controllers
 │  ├─ models
 │  │  ├─ Airline.js
 │  │  ├─ Booking.js
 │  │  ├─ Contact.js
 │  │  ├─ CustomRequest.js
 │  │  ├─ Document.js
+│  │  ├─ DocumentType.js
 │  │  ├─ Expense.js
 │  │  ├─ ExpenseCategory.js
 │  │  ├─ Guide.js
 │  │  ├─ Hotel.js
 │  │  ├─ Package.js
+│  │  ├─ Passenger.js
 │  │  ├─ Payment.js
 │  │  ├─ SeasonalPrice.js
+│  │  ├─ Service.js
 │  │  ├─ Testimonial.js
 │  │  └─ User.js
 │  ├─ routes
